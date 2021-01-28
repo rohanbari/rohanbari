@@ -1,8 +1,10 @@
-**:wave: Hola, it's [Rohan](https://github.com/rohanbari) here! :smiley:**
+**:wave: Hello, it's [Rohan](https://github.com/rohanbari)! :smiley:**
 
 I'm one of the self-taught enthusiast of C/C++, VB.Net & Java so far and still learning them.
-I've observed the experience of using 25 different Linux distributions in 5 years. Besides, I'm one
+I've observed the experience of using 25 different Linux distributions in last 5 years. Besides, I'm one
 of the fastest touch-typist in 10FastFingers, TyperA & TypeRacer (known as `linuxman` there) sites.
+
+I'm always be grateful to be a legend C/C++ system programmer.
 
   * :seedling: In present, I'm interested to learn advanced level of C
   * :telescope: Currently paused project developments to keep concentrated in C
