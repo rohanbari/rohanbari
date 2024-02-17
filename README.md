@@ -1,19 +1,5 @@
-<p style="text-align: center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&textBg=false&animation=fadeIn" alt="Hello message"/>
-</p>
-
-<h2 style="text-align: center">Let's connect together! ✉</h2>
-
-<p style="text-align: center">
-<a href="mailto:rohanbari4@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"  alt="Google" height="48px" width="48px" />
-</a>
-<a href="https://twitter.com/TheRohanBari">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"  alt="Twitter" height="48px" width="48px" />
-</a>
-<a href="https://stackoverflow.com/users/11471113/rohan-bari">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"  alt="Stack Overflow" height="48px" width="48px" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&fontColor=E1C16E&animation=fadeIn" alt="Hello message"/>
 </p>
 
 ## About Me and My Interests 🏆
@@ -48,6 +34,7 @@ hobbies: [
 
 ## Languages I Have Worked With 📝
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"  height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="48px" width="48px" />
@@ -61,9 +48,11 @@ hobbies: [
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  alt="MySQL" height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"  alt="LaTeX" height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"  alt="Markdown" height="48px" width="48px" />
+</p>
 
 ## Tools I Have Used 🛠
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  alt="IntelliJ IDEA" height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"  alt="Visual Studio" height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  alt="VS Code" height="48px" width="48px" />
@@ -83,12 +72,15 @@ hobbies: [
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"  alt="Maven" height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"  height="48px" width="48px"  alt="PowerShell"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"  height="48px" width="48px"  alt="Bash"/>
+</p>
 
 ## Platforms I Have Worked On 💻
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"  alt="Windows" height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  alt="Linux" height="48px" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg"  alt="Android" height="48px" width="48px" />
+</p>
 
 # My Contribution Stats 👨‍💻
 
@@ -97,6 +89,20 @@ hobbies: [
 
 **Thank you for visiting my profile!** ✨
 
-<p style="vertical-align: center">
+<h2 align="center">Let's connect together! ✉</h2>
+
+<p align="center">
+<a href="mailto:rohanbari4@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"  alt="Google" height="48px" width="48px" />
+</a>
+<a href="https://twitter.com/TheRohanBari">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"  alt="Twitter" height="48px" width="48px" />
+</a>
+<a href="https://stackoverflow.com/users/11471113/rohan-bari">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"  alt="Stack Overflow" height="48px" width="48px" />
+</a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&section=footer" alt="Bye"/>
 </p>
