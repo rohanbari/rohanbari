@@ -23,12 +23,12 @@ currently_working_on: [
 ]
 
 currently_learning: [
-  "Algorithms, I from Coursera", "Programming in Java",
+  "Algorithms, I from Coursera", "Programming in Java"
 ]
 
 hobbies: [
   "Chess", "Cricket", "Singing", "Guitar",
-  "Touch-typing", "Journal Writing"
+  "Touch-typing", "Journal Writing", "Duolingo"
 ]
 ```
 
