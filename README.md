@@ -88,14 +88,17 @@ hobbies: [
 <h2 align="center">Let's connect together! ✉</h2>
 
 <p align="center">
-<a href="mailto:rohanbari4@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"  alt="Google" height="48px" width="48px" />
-</a>
 <a href="https://twitter.com/TheRohanBari">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"  alt="Twitter" height="48px" width="48px" />
 </a>
 <a href="https://stackoverflow.com/users/11471113/rohan-bari">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg"  alt="Stack Overflow" height="48px" width="48px" />
+</a>
+<a href="https://medium.com/@rohanbari">
+<img src="https://simpleicons.org/icons/medium.svg"  alt="Medium" height="48px" width="48px" />
+</a>
+<a href="https://dev.to/rohanbari">
+<img src="https://simpleicons.org/icons/devdotto.svg"  alt="Medium" height="48px" width="48px" />
 </a>
 </p>
 
