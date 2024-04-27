@@ -25,7 +25,7 @@ fields_of_interest:
 
 currently_working_on: ["LeetCode"]
 
-currently_learning: ["Algorithms, I from Coursera", "Programming in Java"]
+currently_learning: ["Algorithms, I from Coursera", "Programming in Java", "Programming in C"]
 
 hobbies:
     [
