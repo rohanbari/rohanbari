@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!&fontColor=E1C16E&animation=fadeIn" alt="Hello message"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Enchanté!&fontColor=E1C16E&animation=fadeIn" alt="Hello message"/>
 </p>
 
 ## About Me and My Interests 🏆
