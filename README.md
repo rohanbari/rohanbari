@@ -23,7 +23,7 @@ fields_of_interest:
         "Mathematics",
     ]
 
-currently_working_on: ["LeetCode"]
+currently_working_on: ["LeetCode", "College Academics"]
 
 currently_learning: ["Algorithms, I from Coursera", "Programming in Java", "Programming in C"]
 
@@ -44,9 +44,9 @@ hobbies:
 ### Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="48px" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"  height="48px" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="48px" width="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="48px" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="48px" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="48px" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  alt="MySQL" height="48px" width="48px" />
@@ -73,9 +73,9 @@ hobbies:
 ### IDEs and Editors
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  alt="VS Code" height="48px" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  alt="IntelliJ IDEA" height="48px" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"  alt="Visual Studio" height="48px" width="48px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  alt="VS Code" height="48px" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"  alt="Android Studio" height="48px" width="48px" />
 </p>
 
