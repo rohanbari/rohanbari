@@ -16,26 +16,25 @@ academics:
 
 fields_of_interest:
     [
-        "Application Development",
-        "Web Development",
         "Data Structure & Algorithms",
+        "Mobile Application Development",
         "Electronics",
         "Mathematics",
     ]
 
-currently_working_on: ["LeetCode", "College Academics"]
+currently_working_on: ["LeetCode", "Academics"]
 
-currently_learning: ["Algorithms, I from Coursera", "Programming in Java", "Programming in C"]
+currently_learning: ["Data Structure & Algorithms", "Programming in Java", "Android Application Development"]
 
 hobbies:
     [
         "Chess",
-        "Cricket",
         "Singing",
         "Guitar",
+        "Cricket",
         "Touch-typing",
-        "Journal Writing",
         "Duolingo",
+        "Journal Writing"
     ]
 ```
 
