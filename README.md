@@ -4,7 +4,7 @@
 
 <h2 align="center">Welcome to my GitHub! 👋</h2>
 
-<p align="center">I'm <strong>Rohan Bari</strong>, a passionate learner and coder from Kolkata, India. I’m currently pursuing a Bachelor’s degree in Computer Science, and I have a deep interest in solving problems and building cool things with code!</p>
+<p align="center">I'm <strong>Rohan Bari</strong>, a passionate learner and coder from Kolkata, India. I’m pursuing a Bachelor’s degree in Computer Science, and I am deeply interested in solving problems and building cool things with code!</p>
 
 
 ## 🌟 About Me
@@ -72,8 +72,6 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" height="48px" width="48px"/>
 </p>
 
----
-
 ## 🚀 Tools & Platforms
 
 ### IDEs & Editors
@@ -110,8 +108,6 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48px" width="48px" alt="Bash"/>
 </p>
 
----
-
 ## 💻 Platforms I Use
 
 <p align="center">
@@ -120,16 +116,12 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" alt="Android" height="48px" width="48px"/>
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanbari&show_icons=true&theme=radical&rank_icon=github" alt="Rohan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbari&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
 
 ## ✨ Let's Connect!
 
