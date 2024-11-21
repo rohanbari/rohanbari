@@ -4,7 +4,7 @@
 
 <h2 align="center">Welcome to my GitHub! 👋</h2>
 
-<p align="center">I'm <strong>Rohan Bari</strong>, a passionate learner and coder from Kolkata, India. I’m pursuing a Bachelor’s degree in Computer Science, and I am deeply interested in solving problems and building cool things with code!</p>
+<p align="center">I'm a passionate learner and coder from Kolkata, India. I’m pursuing a Bachelor’s degree in Computer Science and am deeply interested in solving problems and building cool things with code!</p>
 
 
 ## 🌟 About Me
@@ -22,20 +22,20 @@ academics:
 fields_of_interest:
     [
         "Data Structure & Algorithms",
-        "Mobile Application Development",
+        "Mobile App Development",
         "Electronics",
         "Mathematics",
     ]
 
 currently_working_on: ["Dart & Flutter", "LeetCode", "Academics"]
 
-currently_learning: ["Data Structure & Algorithms", "Android App Development"]
+currently_learning: ["Data Structure & Algorithms", "Mobile App Development with Flutter"]
 
 hobbies:
     [
         "Chess",
         "Singing",
-        "Guitar and Flute",
+        "Guitar",
         "Cricket",
         "Touch-typing",
         "Duolingo",
@@ -62,6 +62,7 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="48px" width="48px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="48px" width="48px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="48px" width="48px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" height="48px" width="48px"/>        
 </p>
 
 ### Miscellaneous
