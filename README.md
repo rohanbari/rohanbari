@@ -109,8 +109,7 @@ hobbies: ["Guitar", "Singing", "Touch-typing", "Chess"]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanbari&show_icons=true&theme=radical&rank_icon=github" alt="Rohan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbari&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanbari&show_icons=true&theme=transparent&rank_icon=github" alt="Rohan's GitHub Stats" />
 </p>
 
 ## ✨ Let's Connect!
