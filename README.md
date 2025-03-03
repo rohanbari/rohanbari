@@ -5,7 +5,7 @@
 <h2 align="center">🔥 Welcome to my GitHub! 👋</h2>
 
 <p align="center">I’m a passionate coder pursuing a Bachelor’s in Computer Science.
-  I am deeply interested in developing mobile apps that make everyday life a bit easier and more enjoyable for everyone.</p>
+  I am deeply interested in developing mobile apps that make everyday life easier and more enjoyable for everyone.</p>
 
 
 ## 🌟 About Me
