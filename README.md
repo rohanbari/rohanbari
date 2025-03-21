@@ -28,7 +28,7 @@ fields_of_interest:
         "Mathematics",
     ]
 
-currently_working_on: ["Dart & Flutter", "LeetCode", "Academics"]
+currently_working_on: ["Dart & Flutter", "Next.js", "LeetCode", "Academics"]
 
 currently_learning: ["Data Structure & Algorithms", "Mobile App Development"]
 
