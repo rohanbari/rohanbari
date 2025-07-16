@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Enchanté!&fontColor=E1C16E&animation=fadeIn" alt="Hello message"/>
 </p>
 
-<h2 align="center">Welcome to my GitHub! 👋</h2>
+<h2 align="center">🔥 Welcome to my GitHub! 👋</h2>
 
-<p align="center">I'm a passionate learner and coder from Kolkata, India. I’m pursuing a Bachelor’s degree in Computer Science and am deeply interested in solving problems and building cool things with code!</p>
+<p align="center">I’m a passionate coder pursuing a Bachelor’s in Computer Science.
+  I am deeply interested in developing mobile apps that make everyday life easier and more enjoyable for everyone.</p>
 
 
 ## 🌟 About Me
@@ -21,26 +22,18 @@ academics:
 
 fields_of_interest:
     [
-        "Data Structure & Algorithms",
         "Mobile App Development",
+        "Data Structure & Algorithms",
+        "Full-stack apps",
         "Electronics",
         "Mathematics",
     ]
 
-currently_working_on: ["Dart & Flutter", "LeetCode", "Academics"]
+currently_working_on: ["Dart & Flutter", "LeetCode", "Next.js", "Academics"]
 
-currently_learning: ["Data Structure & Algorithms", "Mobile App Development with Flutter"]
+currently_learning: ["Data Structure & Algorithms", "Mobile App Development"]
 
-hobbies:
-    [
-        "Chess",
-        "Singing",
-        "Guitar",
-        "Cricket",
-        "Touch-typing",
-        "Duolingo",
-        "Journal Writing"
-    ]
+hobbies: ["Guitar", "Singing", "Touch-typing", "Chess"]
 ```
 
 ## 🛠 Languages & Tools
@@ -51,9 +44,7 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="48px" width="48px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="48px" width="48px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="48px" width="48px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="48px" width="48px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="48px" width="48px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="48px" width="48px"/>
 </p>
 
 ### Frontend
@@ -109,7 +100,7 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48px" width="48px" alt="Bash"/>
 </p>
 
-## 💻 Platforms I Use
+## 💻 Platforms Used
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="48px" width="48px"/>
@@ -120,8 +111,8 @@ hobbies:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanbari&show_icons=true&theme=radical&rank_icon=github" alt="Rohan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbari&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanbari&show_icons=true&theme=transparent&rank_icon=github" alt="Rohan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbari&langs_count=8&layout=compact" alt="Rohan's GitHub Stats" />
 </p>
 
 ## ✨ Let's Connect!
@@ -129,9 +120,6 @@ hobbies:
 <p align="center">
   <a href="https://twitter.com/TheRohanBari">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="48px" width="48px"/>
-  </a>
-  <a href="https://stackoverflow.com/users/11471113/rohan-bari">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="48px" width="48px"/>
   </a>
 </p>
 
