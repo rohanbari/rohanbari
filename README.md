@@ -29,14 +29,20 @@ fields_of_interest:
         "Electronics",
     ]
 
-working_on: ["Flutter", "LeetCode", "CodeChef", college_academics]
-
 currently_learning:
     [
-        "Django", "MySQL",
+        "Django",
+        "MySQL",
     ]
 
-hobbies: ["Guitar", "Singing", "Touch-typing", "Quora", "Chess", "Sudoku", "Cricket"]
+hobbies:
+    [
+        "Guitar", "Singing",
+        "Touch-typing",
+        "Quora",
+        "Chess", "Sudoku",
+        "Cricket"
+    ]
 ```
 
 ## 🛠 Languages & Tools
