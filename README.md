@@ -16,24 +16,27 @@ location: Kolkata, India
 
 academics:
     [
-        "Bachelor's in CS (Major & Research) 2023-'26",
-        "Higher Secondary 2020-'22",
+        "Bachelor's in Computer Science (Major) 2023-'27",
+        "Higher Secondary in Science 2020-'22",
     ]
 
 fields_of_interest:
     [
         "Mobile App Development",
-        "Data Structure & Algorithms",
-        "Full-stack apps",
-        "Electronics",
+        "Data Structures and Algorithms",
+        "Databases",
         "Mathematics",
+        "Electronics",
     ]
 
-currently_working_on: ["Dart & Flutter", "LeetCode", "Next.js", "Academics"]
+working_on: ["Flutter", "LeetCode", "CodeChef", college_academics]
 
-currently_learning: ["Data Structure & Algorithms", "Mobile App Development"]
+currently_learning:
+    [
+        "Django", "MySQL",
+    ]
 
-hobbies: ["Guitar", "Singing", "Touch-typing", "Chess"]
+hobbies: ["Guitar", "Singing", "Touch-typing", "Quora", "Chess", "Sudoku", "Cricket"]
 ```
 
 ## 🛠 Languages & Tools
@@ -91,7 +94,7 @@ hobbies: ["Guitar", "Singing", "Touch-typing", "Chess"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" height="48px" width="48px"/>
 </p>
 
-### Other Tools
+### Miscellaneous
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48px" width="48px" alt="Postman"/>
@@ -100,7 +103,7 @@ hobbies: ["Guitar", "Singing", "Touch-typing", "Chess"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48px" width="48px" alt="Bash"/>
 </p>
 
-## 💻 Platforms Used
+## 💻 Platforms
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="48px" width="48px"/>
@@ -118,7 +121,7 @@ hobbies: ["Guitar", "Singing", "Touch-typing", "Chess"]
 ## ✨ Let's Connect!
 
 <p align="center">
-  <a href="https://twitter.com/TheRohanBari">
+  <a href="https://x.com/TheRohanBari">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="48px" width="48px"/>
   </a>
 </p>
