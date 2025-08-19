@@ -11,38 +11,42 @@
 ## 🌟 About Me
 
 ```yaml
-name: Rohan Bari
-location: Kolkata, India
+profile:
+  name: Rohan Bari
+  location: Kolkata, India
 
-academics:
-    [
-        "Bachelor's in Computer Science (Major) 2023-'27",
-        "Higher Secondary in Science 2020-'22",
-    ]
+education:
+  - degree: Bachelor's in Computer Science (Major)
+    duration: 2023–2027
+  - degree: Higher Secondary in Science
+    duration: 2020–2022
 
-fields_of_interest:
-    [
-        "Mobile App Development",
-        "Data Structures and Algorithms",
-        "Databases",
-        "Mathematics",
-        "Electronics",
-    ]
+interests:
+  academic_fields:
+    - Mobile App Development 📱
+    - Data Structures and Algorithms 🧩
+    - Databases 🗄️
+    - Mathematics ➗
+    - Electronics ⚡
+  hobbies:
+    - Guitar 🎸
+    - Singing 🎤
+    - Touch-typing ⌨️
+    - Quora 🧠
+    - Chess ♟️
+    - Sudoku 🔢
+    - Cricket 🏏
 
-currently_learning:
-    [
-        "Django",
-        "MySQL",
-    ]
+projects:
+  currently_working_on:
+    - WatchEye
+    - Periodate
+    - SafePass
+  currently_learning:
+    - Django
+    - MySQL
 
-hobbies:
-    [
-        "Guitar", "Singing",
-        "Touch-typing",
-        "Quora",
-        "Chess", "Sudoku",
-        "Cricket"
-    ]
+status: "Actively building, learning, and exploring the intersection of technology and creativity."
 ```
 
 ## 🛠 Languages & Tools
