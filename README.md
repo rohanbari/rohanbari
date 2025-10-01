@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Enchanté!&fontColor=E1C16E&animation=fadeIn" alt="Hello message"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Namaste!&fontColor=E1C16E&animation=fadeIn" alt="Hello message"/>
 </p>
 
 <h2 align="center">🔥 Welcome to my GitHub! 👋</h2>
