@@ -61,7 +61,8 @@ status: Actively building, learning, and exploring
   <img src="https://github-readme-stats.vercel.app/api?username=rohanbari&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for @rohanbari" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbari&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages for @rohanbari" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=rohanbari&theme=transparent&hide_border=true" alt="GitHub contribution streak for @rohanbari" />
+  <!-- Fixed missing slash before query in streak stats URL -->
+  <img src="https://streak-stats.demolab.com/?user=rohanbari&theme=transparent&hide_border=true" alt="GitHub contribution streak for @rohanbari" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=rohanbari&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Profile trophies for @rohanbari" />
 </p>
@@ -69,7 +70,7 @@ status: Actively building, learning, and exploring
 ## ✨ Let's Connect
 
 <p align="center">
-  <a href="https://x.com/TheRohanBari" title="Follow me on X (Twitter)">X (Twitter)</a>
+  <a href="https://www.linkedin.com/in/therohanbari/" title="Let's chat on LinkedIn">Let's LinkedIn</a>
 </p>
 
 <p align="center">
