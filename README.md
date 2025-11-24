@@ -44,9 +44,8 @@ status: Actively building, learning, and exploring
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,dart,flutter,dotnet,latex,md&perline=13" alt="Languages and frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio,git,github,gitlab,bitbucket,postman,maven,powershell,bash&perline=13" alt="Tools and IDEs" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio,git,github,gitlab,bitbucket,postman,maven,powershell,bash,linux&perline=13" alt="Tools and IDEs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=windows,linux,android,mysql,tomcat&perline=13" alt="Platforms and services" />
 </p>
 
 ## 🛠 What I'm Up To
@@ -60,8 +59,6 @@ status: Actively building, learning, and exploring
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanbari&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for @rohanbari" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbari&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages for @rohanbari" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=rohanbari&theme=transparent&hide_border=true" alt="GitHub contribution streak for @rohanbari" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=rohanbari&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Profile trophies for @rohanbari" />
 </p>
