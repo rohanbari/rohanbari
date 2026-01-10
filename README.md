@@ -50,24 +50,9 @@ status: Actively building, learning, and exploring
 
 ## 🛠 What I'm Up To
 
-- 🔭 Building: WatchEye · Periodate · SafePass
-- 📚 Learning: Django, MySQL
+- 🔭 Building: WatchEye · Periodate · MatCalc
+- 📚 Learning: MySQL · Flutter · Python+DSA
 - 🎯 Focus: Clean UI, performance, and pragmatic DX
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanbari&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats for @rohanbari" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanbari&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages for @rohanbari" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanbari&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Profile trophies for @rohanbari" />
-</p>
-
-## ✨ Let's Connect
-
-<p align="center">
-  <a href="https://x.com/TheRohanBari" title="Follow me on X (Twitter)">X (Twitter)</a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&section=footer" alt="Footer wave" />
