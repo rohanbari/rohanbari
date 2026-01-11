@@ -42,9 +42,9 @@ status: Actively building, learning, and exploring
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,dart,flutter,dotnet,latex,md&perline=13" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,flutter,dotnet&perline=13" alt="Languages and frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio,git,github,gitlab,bitbucket,postman,maven,powershell,bash,linux&perline=13" alt="Tools and IDEs" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,git,github,postman,bash,linux&perline=13" alt="Tools and IDEs" />
   <br/>
 </p>
 
