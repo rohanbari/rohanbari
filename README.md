@@ -4,7 +4,7 @@
 
 <h1 align="center">Rohan Bari — Student Developer</h1>
 
-<p align="center">Kolkata, India · B.Sc. Computer Science (2023–2027) · Focus: Mobile apps, clean UI & performance</p>
+<p align="center">Kolkata, India · B.Sc. Computer Science (2023–2027) · Focus: Back-end</p>
 
 ## About
 
