@@ -8,7 +8,7 @@
 
 ## About
 
-I am a student developer building practical mobile applications and learning modern databases and backend patterns. I care about intuitive UX, performant code, and readable engineering. Currently focused on Flutter-based apps and strengthening my data-structure & algorithms skills.
+I am a student developer building practical mobile applications and learning modern databases and backend patterns. I care about intuitive UX, performant code, and readable engineering. Currently focused on Flutter-based apps and strengthening my DSA skills.
 
 ## Highlights
 
