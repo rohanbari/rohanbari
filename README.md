@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsrohanbari" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-itsrohanbari-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/therohanbari" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-therohanbari-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rohanbari4@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-rohanbari4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com" target="_blank" rel="noopener">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1641%20(top%2018%25)-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/u/therohanbari" target="_blank" rel="noopener">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1685%20(top%2014.98%25)-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com" target="_blank" rel="noopener">
+  <a href="https://stackoverflow.com/users/11471113/rohan-bari" target="_blank" rel="noopener">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-7749%20rep%20(top%200.8%25)-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 Flutter developer with production-grade experience building and scaling real-world mobile products.
 
-Currently a B.Sc. Computer Science student at the University of Calcutta, sharpening DSA and exploring backend patterns alongside active Flutter development. Targeting Flutter and mobile engineer roles at product-focused companies.
+Currently a B.Sc. Computer Science student at the University of Calcutta, sharpening DSA and exploring backend patterns alongside active Flutter development.
 
 ---
 
