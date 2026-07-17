@@ -5,16 +5,21 @@
 <h1 align="center">Rohan Bari</h1>
 
 <p align="center">
-  Flutter Developer &nbsp;·&nbsp; Mobile App Developer &nbsp;·&nbsp; Kolkata, India
+  Flutter Developer &nbsp;·&nbsp; Mobile Engineer &nbsp;·&nbsp; Kolkata, India
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itsrohanbari" target="_blank" rel="noopener">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-itsrohanbari-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="mailto:therohanbari@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-therohanbari%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:rohanbari4@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-rohanbari4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com" target="_blank" rel="noopener">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1641%20(top%2018%25)-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com" target="_blank" rel="noopener">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-7749%20rep%20(top%200.8%25)-F58025?style=flat-square&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
 
@@ -22,46 +27,48 @@
 
 ## About me
 
-I'm a Computer Science student and Flutter developer based in Kolkata, India, building cross-platform Android and iOS applications using Flutter and Dart.
+Flutter developer with production-grade experience building and scaling real-world mobile products.
 
-Currently sharpening Python for ML and DSA skills and exploring backend patterns with MongoDB and MySQL alongside active Flutter app development.
+Currently a B.Sc. Computer Science student at the University of Calcutta, sharpening DSA and exploring backend patterns alongside active Flutter development. Targeting Flutter and mobile engineer roles at product-focused companies.
 
 ---
 
 ## Tech stack
 
-**Mobile development**  
-Flutter · Dart · Android SDK
+**Mobile:**
+Flutter · Dart · Riverpod · GoRouter · Material 3 · Responsive UI · Clean Architecture
 
-**Languages**  
-Dart · Python · Java · C · C++ · C# · .NET
+**Languages:**
+Dart · Java · Python · SQL · C++
 
-**Backend & databases**  
-MongoDB · MySQL · REST APIs
+**Backend & Data:**
+REST APIs · SQLite
 
-**Tools**  
-Git · GitHub · Android Studio · VS Code
+**Tooling:**
+Git · GitHub Actions · Android Studio · IntelliJ IDEA · VS Code · Postman · Linux · VMware Workstation Pro
+
+**CS Core:**
+Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · DBMS · System Design
 
 <p align="center">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=coding&logoColor=white" />
 </p>
 
 ---
 
-## Education
+## Achievements
 
-**B.Sc. in Computer Science** — 2023–2026  
-University of Calcutta, Kolkata
+- 🏆 LeetCode contest rating **1,685** (top 14.98%) · 200+ problems solved · 125+ day streak
+- 🥇 Stack Overflow reputation **7,749** (top 0.8% of users) · 3 Gold · 20 Silver · 42 Bronze · C & C++ badges · 500+ answers
 
 ---
 
