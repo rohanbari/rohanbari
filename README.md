@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/therohanbari" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-therohanbari-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rohanbari" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rohanbari-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rohanbari4@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-rohanbari4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
